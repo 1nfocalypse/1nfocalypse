@@ -9,6 +9,7 @@ Currently working on multiple projects, including:
 - Reason Preexploitation Framework
 - Coding Theory Examples
 - Coding Theory Writeup
+- [Cutter.re](https://cutter.re/) module
 
 I'm also still involved with NXFury's FOSS Cyber education program!
 I'm still somewhat hard to get ahold of, but I'll fix that soon! Thanks for checking out my account.
