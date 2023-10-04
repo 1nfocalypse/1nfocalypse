@@ -12,4 +12,5 @@ Currently working on multiple projects, including:
 - [Cutter.re](https://cutter.re/) module
 
 I'm also still involved with NXFury's FOSS Cyber education program!
+I'm back in school. I'm dead to the world until November, realistically December. Send caffeine and pizza pls.
 I'm still somewhat hard to get ahold of, but I'll fix that soon! Thanks for checking out my account.
