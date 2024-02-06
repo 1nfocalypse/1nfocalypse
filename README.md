@@ -13,5 +13,5 @@ Currently working on multiple projects, including:
 - EnkiNum Numerical Analysis Library
 - Numerical Analysis Writeup
 
-I'm back in school. I'm dead to the world until November, realistically December. Send caffeine and pizza pls.
+I'm back in school. I'm dead to the world until early May. Send caffeine and pizza pls.
 I'm still somewhat hard to get ahold of, but I'll fix that soon! Thanks for checking out my account.
