@@ -1,14 +1,11 @@
 Hi, I'm 1nfocalypse.
 I'm a CS and Applied Mathematics student that likes to mess around with almost anything related to computers, along with a bit of a cyberpunk nerd.
 Currently working on multiple projects, including:
-- Toy ElGamal
-- Toy RSA
-- ElGamal with Elliptic Curves
-- Cryptography Writeup
-- System for utilizing ElGamal implementation to send secure P2P messages
+- ElGamal, RSA, ECDLP
+- Cryptography Writeup Problems/Solutions
+- P2P messaging client using ECDLP
 - Reason Preexploitation Framework
-- Coding Theory Examples
-- Coding Theory Writeup
+- Coding Theory Writeup + Exampes?
 - [Cutter.re](https://cutter.re/) module
 - EnkiNum Numerical Analysis Library
 - Numerical Analysis Writeup
