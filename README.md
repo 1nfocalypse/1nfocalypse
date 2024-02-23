@@ -2,6 +2,7 @@ Hi, I'm 1nfocalypse.
 I'm a CS student with an interest in applied mathematics that likes to mess around with almost anything related to computers, along with a bit of a cyberpunk nerd.
 Currently working on multiple projects, including:
 - The Traffic Throughput Optimization Project
+- Research on novel compression techniques
 - RSA, ElGamal, ECDLP implementations
 - Numerical Analysis Writeup
 - Cryptography Writeup Problems/Solutions
