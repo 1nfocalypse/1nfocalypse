@@ -11,6 +11,7 @@ Currently working on multiple projects, including:
 - Coding Theory Writeup + Exampes?
 - [Cutter.re](https://cutter.re/) module
 - EnkiNum Numerical Analysis Library
+- Automated network priority resolution standard
 - Research on Fractionated Cavity Loaders
 - Research on Plausible Deniability XOR Crypters
 - Research and (hopefully) implementation of Shpilrain's Algorithm, based on the undecidability of problems in Combinatorial Group Theory
