@@ -15,7 +15,7 @@ Currently working on multiple projects, including:
 - Research on Plausible Deniability XOR Crypters
 - Research and (hopefully) implementation of Shpilrain's Algorithm, based on the undecidability of problems in Combinatorial Group Theory
 - Research on solutions to decentralized, anonymous, encrypted group messaging.
-- Research on compression efficiency, particularly with regards to finding optimality for expected compression in number of symbols permitted 
+- Research on compression efficiency, particularly with regards to finding optimality for expected compression in number of symbols permitted via decompositional preprocessing
 
 I'm back in school. I'm dead to the world until early May. Send caffeine and pizza pls.
 I'm still somewhat hard to get ahold of, but I'll fix that soon! Thanks for checking out my account.
