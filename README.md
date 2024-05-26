@@ -1,7 +1,7 @@
 Hi, I'm 1nfocalypse.
-I'm a CS student with an interest in applied mathematics that likes to mess around with almost anything related to computers, along with a bit of a cyberpunk nerd.
+I'm a recent graduate, with a BS in Computer Science. I'm primarily interested in algorithm development, applied mathematics, security, and systems. I'm also a bit of a cyberpunk nerd.
 Currently working on multiple projects, including:
-- The Traffic Throughput Optimization Project
+- The Traffic Throughput Optimization Project (almost done)
 - RSA, ElGamal, ECDLP implementations
 - Numerical Analysis Writeup
 - Cryptography Writeup Problems/Solutions
@@ -13,9 +13,9 @@ Currently working on multiple projects, including:
 - Automated network priority resolution standard
 - Research on Fractionated Cavity Loaders
 - Research on Plausible Deniability XOR Crypters
-- Research and (hopefully) implementation of Shpilrain's Algorithm, based on the undecidability of problems in Combinatorial Group Theory
+- Research and (hopefully) implementation of Shpilrain's Algorithm, based on the undecidability of problems regarding the free word group in Combinatorial Group Theory
 - Research on solutions to decentralized, anonymous, encrypted group messaging.
 - Research on compression efficiency, particularly with regards to finding optimality for expected compression in number of symbols permitted via decompositional preprocessing
 
-I'm back in school. I'm dead to the world until early May. Send caffeine and pizza pls.
-I'm still somewhat hard to get ahold of, but I'll fix that soon! Thanks for checking out my account.
+
+Currently funemployed, but my website with professional contact information will be up soon if you are interested in reaching out.
