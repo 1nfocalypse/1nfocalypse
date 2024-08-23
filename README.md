@@ -1,11 +1,11 @@
 Hi, I'm 1nfocalypse.
 I'm a recent graduate, with a BS in Computer Science. I'm primarily interested in algorithm development, applied mathematics, security, and systems. I'm also a bit of a cyberpunk nerd.
 Currently working on multiple projects, including:
+- Kuznyechik, Magma, ShangMi 4, AES, RSA, ElGamal, ECDLP implementations
 - The Traffic Throughput Optimization Project (almost done)
-- RSA, ElGamal, ECDLP implementations
 - Numerical Analysis Writeup
 - Cryptography Writeup Problems/Solutions
-- P2P messaging client using ECDLP
+- P2P E2E messaging client utilizing crypto that I've rolled
 - Reason Preexploitation Framework
 - Coding Theory Writeup + Exampes?
 - [Cutter.re](https://cutter.re/) module
