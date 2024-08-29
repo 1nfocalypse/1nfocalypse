@@ -7,7 +7,7 @@ Currently working on multiple projects, including:
 - Cryptography Writeup Problems/Solutions
 - P2P E2E messaging client utilizing crypto that I've rolled
 - Reason Preexploitation Framework
-- Coding Theory Writeup + Exampes?
+- Coding Theory Writeup + Examples?
 - [Cutter.re](https://cutter.re/) module
 - EnkiNum Numerical Analysis Library
 - Automated network priority resolution standard
