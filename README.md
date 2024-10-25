@@ -16,6 +16,3 @@ Currently working on multiple projects, including:
 - Research and (hopefully) implementation of Shpilrain's Algorithm, based on the undecidability of problems regarding the free word group in Combinatorial Group Theory
 - Research on solutions to decentralized, anonymous, encrypted group messaging.
 - Research on compression efficiency, particularly with regards to finding optimality for expected compression in number of symbols permitted via decompositional preprocessing
-
-
-Currently funemployed, but my website with professional contact information will be up soon if you are interested in reaching out.
