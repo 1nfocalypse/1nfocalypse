@@ -1,10 +1,9 @@
 Hi, I'm 1nfocalypse.
 I'm a recent graduate, with a BS in Computer Science. I'm primarily interested in algorithm development, applied mathematics, security, and systems. I'm also a bit of a cyberpunk nerd.
 Currently working on multiple projects, including:
-- Numerical trading suite, particularly specialized for SOL and derivative coins. (Unfortunately proprietary)
+- Development of an Elliptic Curve based CSPRNG algorithm for use in a custom stream cipher
 - ShangMi 4, AES, RSA, ElGamal, ECDLP implementations
 - ShangMi 3, SHA256, and Keccak implementations
-- Development of an Elliptic Curve based CSPRNG algorithm for use in a custom stream cipher
 - The Traffic Throughput Optimization Project (almost done)
 - Numerical Analysis Writeup
 - Cryptography Writeup Problems/Solutions
