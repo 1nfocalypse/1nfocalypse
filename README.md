@@ -1,19 +1,26 @@
 Hi, I'm 1nfocalypse.
 I'm a recent graduate, with a BS in Computer Science. I'm primarily interested in algorithm development, applied mathematics, security, and systems. I'm also a bit of a cyberpunk nerd.
-Currently working on multiple projects, including:
-- Philox PRNG implementation
-- Development of an Elliptic Curve based CSPRNG algorithm for use in a custom stream cipher
-- ShangMi 4, AES, RSA, ElGamal, ECDLP implementations
-- ShangMi 3, SHA256, and Keccak implementations
-- The Traffic Throughput Optimization Project (almost done)
+
+I currently mostly work with numerical and (to use Knuth's verbiage) seminumerical algorithms. I also particularly enjoy cryptography, both theory and practice. I'm currently working primarily with GCC's libstdc++-v3,
+in which I implemented Philox Engine for C++26 (under review) and am currently working on the linalg header. I also maintain an entirely-too-large list of personal projects that I'm either currently working on, have started,
+or intend on working on, which can be found below. If you're interested in contacting me, I can be found at 1nfocalypse(at)protonmail(dot)com. I may miss your email in the sea of GCC mailing list stuff - if I don't respond,
+please feel free to bump it up in my inbox again.
+
+
+Current Projects:
+- libstdc++-v3 linalg header
+- Development of a dual-hardness Elliptic Curve based CSPRNG algorithm, reliant on the ECDLP, Elligator 2, and bit truncation.
+- ShangMi cryptologic suite implementation
+- Hacker's Fright (A writeup on the book "Hacker's Delight")
+- Serge Lang's Algebraic Number Theory (group read)
 - Numerical Analysis Writeup
-- Cryptography Writeup Problems/Solutions
+- AES, RSA, ElGamal implementations
+- SHA256 and Keccak implementations
 - P2P E2E messaging client utilizing crypto that I've rolled
-- Reason Preexploitation Framework
-- Coding Theory Writeup + Examples?
-- EnkiNum Numerical Analysis Library
-- Automated network priority resolution standard for CANs
+- Coding Theory Writeup + Examples
+- Automated network priority resolution standard for CANs based on error-correcting codes
 - Research on Fractionated Cavity Loaders utilizing Plausibly Deniable Encryption
 - Research and (hopefully) implementation of Shpilrain's Algorithm, based on the undecidability of problems regarding the free word group in Combinatorial Group Theory
 - Research on solutions to decentralized, anonymous, encrypted group messaging.
 - Research on compression efficiency, particularly with regards to finding optimality for expected compression in number of symbols permitted via decompositional preprocessing
+- Library for wrapping C++ sockets to provide a better interface
