@@ -8,7 +8,7 @@ please feel free to bump it up in my inbox again.
 
 
 Current Projects:
-- Cryptanalysis of the Philox PRNG
+- Cryptanalysis of the Philox PRNG (going terribly, thanks for asking)
 - libstdc++-v3 linalg header
 - Development of a dual-hardness Elliptic Curve based CSPRNG algorithm, reliant on the ECDLP, Elligator 2, and bit truncation.
 - ShangMi cryptologic suite implementation
