@@ -9,7 +9,6 @@ please feel free to bump it up in my inbox again.
 
 Current Projects:
 - libstdc++-v3 Philox Engine (almost there, hopefully, i think)
-- Cryptography CTF challenges for a CTF @ DEFCON 33
 - Cryptanalysis of the Philox PRNG
 - libstdc++-v3 linalg header
 - Development of a dual-hardness Elliptic Curve based CSPRNG algorithm, reliant on the ECDLP, Elligator 2, and bit truncation.
