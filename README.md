@@ -2,7 +2,7 @@ Hi, I'm 1nfocalypse.
 I'm a recent graduate, with a BS in Computer Science. I'm primarily interested in algorithm development, applied mathematics, security, and systems. I'm also a bit of a cyberpunk nerd.
 
 I currently mostly work with numerical and (to use Knuth's verbiage) seminumerical algorithms. I also particularly enjoy cryptography, both theory and practice. I'm currently working primarily with GCC's libstdc++-v3,
-in which I submitted Philox Engine for C++26 (under review) and am currently working on getting it merged + the linalg header. I also maintain an entirely-too-large list of personal projects that I'm either currently working on, have 
+in which I contributed Philox Engine for C++26 and am currently working on supporting the linalg header. I also maintain an entirely-too-large list of personal projects that I'm either currently working on, have 
 started, or intend on working on, which can be found below. If you're interested in contacting me, I can be found at 1nfocalypse(at)protonmail(dot)com. I may miss your email in the sea of GCC mailing list stuff - if I don't respond,
 please feel free to bump it up in my inbox again.
 
