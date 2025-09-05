@@ -10,9 +10,9 @@ I may miss your email in the sea of GCC mailing list stuff - if I don't respond,
 Current Projects:
 - libstdc++-v3 Philox Engine (selected for merge, working on compatability for all targets and not just those supporting __uint128_t)
 - Cryptanalysis of the Philox PRNG
+- Survey and impl of Chinese + Russian crypto
 - libstdc++-v3 linalg header
 - Development of a dual-hardness Elliptic Curve based CSPRNG algorithm, reliant on the ECDLP, Elligator 2, and bit truncation.
-- ShangMi cryptologic suite implementation
 - Hacker's Fright (A writeup on the book "Hacker's Delight")
 - Serge Lang's Algebraic Number Theory (group read)
 - Numerical Analysis Writeup
