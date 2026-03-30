@@ -1,4 +1,5 @@
-# MIGRATED TO CODEBERG - [https://codeberg.org/1nfocalypse](https://codeberg.org/1nfocalypse)
+# ARCHIVE
+### MIGRATED TO CODEBERG - [https://codeberg.org/1nfocalypse](https://codeberg.org/1nfocalypse)
 
 Hi, I'm 1nfocalypse.
 I currently work on GCC. I'm primarily interested in algorithm development, applied mathematics, security, and systems. I'm also a bit of a cyberpunk nerd.
